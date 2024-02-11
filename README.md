@@ -1,4 +1,4 @@
 # To-Do-List-Sederhana
 
-HTML, CSS dan JavaScript;
-source: GreatStack (YouTube);
+HTML, CSS dan JavaScript
+Source: GreatStack (YouTube)
